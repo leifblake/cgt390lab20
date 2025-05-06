@@ -1,0 +1,10 @@
+{
+    "home": "This is the Home page. Here you can view all your profiles at a glance.",
+    "about": "The About page tells you who built this app and why.",
+    "add profile": "On the Add Profiles page you can create a new profile by filling out the form and clicking Submit.",
+    "login": "Use the Login page to sign in with your credentials. Once logged in, you'll see your personalized data.",
+    "logout": "Clicking Logout in the navbar will sign you out and clear your session.",
+    "help": "I'm here to help! Ask me about any part of the app: Home, About, Add Profile, Login, Logout, or anything else.",
+    "default": "Sorry, I don't understand that. Try asking about Home, About, Add Profile, Login, or Logout."
+  }
+  
